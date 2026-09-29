@@ -3,14 +3,14 @@
   {
    "Id": "ww1_great_war",
    "Name": "The Great War 1914-1918",
-   "Version": "1.1.0",
+   "Version": "1.2.0",
    "Author": "Meridian Front team",
    "Description": "Total conversion to the First World War: play the Ottoman Empire, Britain, Germany, France or Russia with their own infantry, cavalry, tanks, biplanes, Zeppelins and dreadnoughts; Money and Oil instead of Material and Energy; seven battlefields from Gallipoli to the Western Front.",
    "PriceDiamonds": 0,
    "GameVersion": "0.9.7",
-   "Package": "ww1_great_war-1.1.0.zip",
-   "Sha256": "6dfc88b02b27fe2728701e54b74fe4425bf106b8f1d05773e0f2284595d772fd",
-   "SizeBytes": 152130
+   "Package": "ww1_great_war-1.2.0.zip",
+   "Sha256": "6bd5d26c2211e853f6dfe60002a5f35a328de545b8b7964e322fa5dfa530f988",
+   "SizeBytes": 152297
   }
  ]
 }
