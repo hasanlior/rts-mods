@@ -6,7 +6,7 @@ Downloadable official mods for **Meridian Front**. The game reads `catalog.json`
 
 | Mod | Version | Price |
 |---|---|---|
-| The Great War 1914-1918 (`ww1_great_war`) - Ottoman Empire, Britain, Germany, France and Russia, Money and Oil, seven battlefields | 1.0.0 | Free |
+| The Great War 1914-1918 (`ww1_great_war`) - Ottoman Empire, Britain, Germany, France and Russia, Money and Oil, seven battlefields | 1.1.0 (needs game 0.9.7 for its own art) | Free |
 
 Packages are data only (JSON). The game checks each download's size and SHA-256 against `catalog.json` before it
 installs it.
